@@ -1,0 +1,174 @@
+"orderid","date","customerid","product","quantity","unitprice","shippingaddress","paymentmethod","orderstatus","trackingnumber","itemsincart","couponcode","referralsource","totalprice"
+"ORD200006","2025-06-17","C83492","Laptop",1,664.42,"986 Main St","Gift Card","Returned","TRK96417362",6,"SAVE10","Facebook",664.42
+"ORD200013","2023-08-30","C88348","Laptop",3,201.49,"903 Main St","Credit Card","Returned","TRK81913874",4,"FREESHIP","Facebook",604.47
+"ORD200024","2024-10-30","C17470","Laptop",2,230.95,"956 Main St","Online","Delivered","TRK28775057",3,"WINTER15","Referral",461.90
+"ORD200026","2024-03-06","C21944","Laptop",5,59.55,"296 Main St","Online","Delivered","TRK80276812",6,"No Coupon","Referral",297.75
+"ORD200036","2025-05-08","C59337","Laptop",2,534.43,"465 Main St","Debit Card","Pending","TRK50961250",5,"No Coupon","Facebook",1068.86
+"ORD200037","2024-10-14","C10054","Laptop",2,76.74,"409 Main St","Cash","Returned","TRK94005261",7,"SAVE10","Instagram",153.48
+"ORD200038","2024-12-19","C15924","Laptop",1,245.89,"549 Main St","Debit Card","Delivered","TRK14835975",3,"SAVE10","Google",245.89
+"ORD200076","2024-03-31","C58638","Laptop",4,382.88,"239 Main St","Cash","Cancelled","TRK38224871",6,"WINTER15","Email",1531.52
+"ORD200083","2023-08-22","C15681","Laptop",4,540.41,"989 Main St","Credit Card","Cancelled","TRK75112172",6,"No Coupon","Referral",2161.64
+"ORD200091","2023-03-15","C98216","Laptop",5,492.75,"196 Main St","Cash","Shipped","TRK40986666",6,"WINTER15","Referral",2463.75
+"ORD200102","2023-03-08","C18037","Laptop",2,70.34,"944 Main St","Gift Card","Cancelled","TRK47362236",3,"FREESHIP","Email",140.68
+"ORD200108","2024-12-28","C33099","Laptop",5,48.38,"522 Main St","Gift Card","Delivered","TRK28522330",9,"WINTER15","Email",241.90
+"ORD200113","2024-01-17","C65905","Laptop",5,190.08,"605 Main St","Cash","Shipped","TRK73954365",9,"FREESHIP","Instagram",950.40
+"ORD200122","2024-04-15","C96787","Laptop",2,533.02,"588 Main St","Gift Card","Shipped","TRK30422853",2,"No Coupon","Facebook",1066.04
+"ORD200129","2023-10-27","C52751","Laptop",4,263.93,"427 Main St","Debit Card","Shipped","TRK72481234",4,"FREESHIP","Facebook",1055.72
+"ORD200134","2025-06-23","C16253","Laptop",2,199.70,"583 Main St","Cash","Pending","TRK17354894",4,"No Coupon","Email",399.40
+"ORD200136","2024-04-27","C73370","Laptop",1,44.35,"595 Main St","Gift Card","Cancelled","TRK67820278",1,"SAVE10","Instagram",44.35
+"ORD200147","2025-05-06","C46316","Laptop",2,465.18,"893 Main St","Credit Card","Cancelled","TRK16196000",2,"SAVE10","Google",930.36
+"ORD200149","2023-12-27","C39671","Laptop",1,217.56,"174 Main St","Debit Card","Delivered","TRK47153818",3,"No Coupon","Facebook",217.56
+"ORD200179","2024-11-24","C27401","Laptop",3,539.91,"500 Main St","Credit Card","Delivered","TRK14332053",8,"No Coupon","Email",1619.73
+"ORD200185","2025-02-02","C46877","Laptop",1,210.70,"572 Main St","Online","Shipped","TRK96935978",2,"WINTER15","Referral",210.70
+"ORD200191","2025-03-08","C51494","Laptop",2,488.87,"505 Main St","Online","Cancelled","TRK58520306",4,"FREESHIP","Google",977.74
+"ORD200197","2023-08-27","C80135","Laptop",5,221.51,"723 Main St","Cash","Returned","TRK95222269",5,"WINTER15","Referral",1107.55
+"ORD200198","2024-06-11","C37594","Laptop",4,340.30,"926 Main St","Cash","Cancelled","TRK94405162",8,"SAVE10","Referral",1361.20
+"ORD200204","2023-09-05","C99775","Laptop",4,413.71,"478 Main St","Gift Card","Cancelled","TRK21638425",9,"FREESHIP","Facebook",1654.84
+"ORD200206","2024-04-16","C31072","Laptop",4,229.10,"729 Main St","Gift Card","Returned","TRK77172975",8,"WINTER15","Email",916.40
+"ORD200213","2023-04-20","C71122","Laptop",1,634.40,"317 Main St","Cash","Cancelled","TRK54757882",6,"SAVE10","Email",634.40
+"ORD200219","2025-05-02","C48946","Laptop",5,61.97,"457 Main St","Cash","Delivered","TRK99387220",6,"SAVE10","Email",309.85
+"ORD200220","2023-07-18","C79506","Laptop",2,373.17,"497 Main St","Credit Card","Pending","TRK95188748",6,"SAVE10","Referral",746.34
+"ORD200245","2025-04-20","C12667","Laptop",1,223.30,"306 Main St","Online","Returned","TRK25390491",1,"No Coupon","Facebook",223.30
+"ORD200248","2023-07-02","C97187","Laptop",1,670.54,"471 Main St","Cash","Shipped","TRK62283713",6,"FREESHIP","Referral",670.54
+"ORD200278","2024-11-18","C46015","Laptop",5,362.46,"299 Main St","Cash","Delivered","TRK46598430",6,"FREESHIP","Instagram",1812.30
+"ORD200283","2025-02-28","C39638","Laptop",4,540.33,"990 Main St","Cash","Shipped","TRK69745608",6,"No Coupon","Google",2161.32
+"ORD200284","2023-02-16","C27203","Laptop",5,208.17,"516 Main St","Credit Card","Returned","TRK22023906",6,"SAVE10","Facebook",1040.85
+"ORD200288","2023-03-12","C97643","Laptop",4,512.75,"537 Main St","Debit Card","Returned","TRK60831391",8,"WINTER15","Google",2051.00
+"ORD200305","2023-11-25","C63822","Laptop",4,126.89,"235 Main St","Cash","Pending","TRK59353216",9,"FREESHIP","Instagram",507.56
+"ORD200307","2023-07-01","C92407","Laptop",3,557.41,"135 Main St","Online","Delivered","TRK11755610",4,"No Coupon","Email",1672.23
+"ORD200319","2023-12-02","C53049","Laptop",2,563.06,"413 Main St","Cash","Returned","TRK48974907",6,"No Coupon","Instagram",1126.12
+"ORD200323","2025-01-26","C29416","Laptop",1,150.17,"414 Main St","Debit Card","Returned","TRK63820842",1,"SAVE10","Referral",150.17
+"ORD200326","2024-07-01","C65986","Laptop",5,670.48,"273 Main St","Gift Card","Returned","TRK98353867",5,"SAVE10","Facebook",3352.40
+"ORD200336","2023-12-29","C88174","Laptop",1,18.20,"441 Main St","Debit Card","Pending","TRK10143345",4,"SAVE10","Instagram",18.20
+"ORD200340","2023-04-23","C76207","Laptop",5,521.25,"826 Main St","Cash","Cancelled","TRK25569378",8,"No Coupon","Email",2606.25
+"ORD200348","2024-03-13","C24369","Laptop",3,359.73,"885 Main St","Debit Card","Returned","TRK72633998",7,"FREESHIP","Email",1079.19
+"ORD200351","2025-02-15","C94248","Laptop",1,64.66,"494 Main St","Debit Card","Delivered","TRK89406816",4,"No Coupon","Instagram",64.66
+"ORD200357","2023-07-08","C74982","Laptop",5,408.56,"398 Main St","Debit Card","Delivered","TRK98700702",8,"FREESHIP","Instagram",2042.80
+"ORD200363","2024-05-24","C31668","Laptop",5,113.87,"871 Main St","Credit Card","Pending","TRK42584392",6,"SAVE10","Email",569.35
+"ORD200367","2024-04-25","C13108","Laptop",5,658.77,"712 Main St","Gift Card","Pending","TRK82284400",10,"FREESHIP","Instagram",3293.85
+"ORD200373","2023-01-02","C60178","Laptop",3,341.15,"969 Main St","Cash","Pending","TRK84505143",4,"FREESHIP","Instagram",1023.45
+"ORD200391","2025-01-16","C60037","Laptop",2,527.46,"516 Main St","Debit Card","Cancelled","TRK82009557",3,"FREESHIP","Referral",1054.92
+"ORD200416","2023-07-18","C20881","Laptop",2,644.05,"652 Main St","Gift Card","Cancelled","TRK26263902",5,"WINTER15","Referral",1288.10
+"ORD200417","2023-10-24","C44492","Laptop",5,55.41,"954 Main St","Online","Cancelled","TRK51429869",5,"No Coupon","Google",277.05
+"ORD200425","2023-03-09","C40648","Laptop",2,301.88,"488 Main St","Gift Card","Returned","TRK25325993",5,"WINTER15","Email",603.76
+"ORD200436","2023-02-11","C14568","Laptop",4,221.33,"651 Main St","Online","Pending","TRK73545796",5,"No Coupon","Google",885.32
+"ORD200446","2023-10-18","C89592","Laptop",5,509.58,"262 Main St","Online","Delivered","TRK49442402",6,"FREESHIP","Instagram",2547.90
+"ORD200448","2023-09-04","C16776","Laptop",2,160.00,"854 Main St","Cash","Pending","TRK12860600",4,"SAVE10","Instagram",320.00
+"ORD200454","2024-11-27","C54759","Laptop",1,109.29,"686 Main St","Debit Card","Cancelled","TRK75583042",5,"FREESHIP","Google",109.29
+"ORD200460","2024-10-06","C83548","Laptop",1,144.25,"474 Main St","Cash","Returned","TRK93822942",2,"WINTER15","Referral",144.25
+"ORD200463","2023-05-26","C25276","Laptop",5,662.78,"214 Main St","Debit Card","Shipped","TRK14011732",9,"SAVE10","Instagram",3313.90
+"ORD200481","2023-04-23","C94568","Laptop",4,484.85,"317 Main St","Debit Card","Delivered","TRK58653915",5,"WINTER15","Referral",1939.40
+"ORD200492","2023-10-25","C39074","Laptop",5,606.52,"103 Main St","Debit Card","Shipped","TRK13027036",6,"SAVE10","Instagram",3032.60
+"ORD200494","2023-07-19","C64516","Laptop",3,505.79,"459 Main St","Debit Card","Pending","TRK63920573",3,"FREESHIP","Referral",1517.37
+"ORD200500","2024-04-07","C79475","Laptop",5,508.59,"169 Main St","Cash","Returned","TRK42168516",8,"WINTER15","Facebook",2542.95
+"ORD200509","2023-02-15","C68937","Laptop",2,425.03,"560 Main St","Cash","Returned","TRK31908657",2,"WINTER15","Google",850.06
+"ORD200519","2025-05-10","C71797","Laptop",4,464.29,"941 Main St","Debit Card","Returned","TRK66010667",5,"SAVE10","Email",1857.16
+"ORD200532","2025-05-03","C47365","Laptop",2,41.00,"369 Main St","Online","Delivered","TRK42207882",7,"No Coupon","Email",82.00
+"ORD200540","2024-01-29","C87281","Laptop",5,648.65,"852 Main St","Online","Pending","TRK81765057",7,"No Coupon","Referral",3243.25
+"ORD200550","2023-10-29","C97485","Laptop",4,228.91,"573 Main St","Cash","Shipped","TRK81794737",4,"FREESHIP","Google",915.64
+"ORD200551","2023-05-18","C23947","Laptop",1,120.98,"353 Main St","Debit Card","Delivered","TRK74812710",6,"WINTER15","Email",120.98
+"ORD200554","2025-05-30","C61943","Laptop",2,492.90,"610 Main St","Cash","Returned","TRK66126496",5,"FREESHIP","Instagram",985.80
+"ORD200556","2023-01-28","C30923","Laptop",1,654.27,"932 Main St","Gift Card","Pending","TRK82609328",2,"SAVE10","Facebook",654.27
+"ORD200562","2023-10-06","C76675","Laptop",3,663.93,"922 Main St","Gift Card","Returned","TRK28043915",6,"FREESHIP","Email",1991.79
+"ORD200563","2023-12-12","C12039","Laptop",1,132.68,"844 Main St","Debit Card","Returned","TRK68645763",1,"SAVE10","Referral",132.68
+"ORD200568","2023-03-10","C29072","Laptop",2,343.99,"312 Main St","Online","Delivered","TRK72334047",4,"No Coupon","Google",687.98
+"ORD200576","2024-05-29","C14457","Laptop",5,79.08,"747 Main St","Cash","Pending","TRK42517811",8,"No Coupon","Facebook",395.40
+"ORD200581","2024-11-11","C44674","Laptop",1,627.34,"942 Main St","Online","Delivered","TRK87158684",1,"No Coupon","Referral",627.34
+"ORD200589","2025-02-10","C84041","Laptop",2,500.80,"900 Main St","Cash","Delivered","TRK84920444",3,"FREESHIP","Referral",1001.60
+"ORD200591","2024-11-18","C18187","Laptop",1,605.28,"470 Main St","Gift Card","Shipped","TRK50528185",3,"FREESHIP","Referral",605.28
+"ORD200606","2024-11-06","C85018","Laptop",3,274.75,"783 Main St","Cash","Cancelled","TRK54128886",3,"SAVE10","Google",824.25
+"ORD200608","2024-07-24","C32956","Laptop",5,543.16,"788 Main St","Online","Cancelled","TRK73140103",6,"SAVE10","Instagram",2715.80
+"ORD200613","2024-12-19","C62405","Laptop",2,230.36,"154 Main St","Online","Returned","TRK14721763",4,"WINTER15","Email",460.72
+"ORD200619","2024-07-16","C38845","Laptop",1,532.89,"764 Main St","Gift Card","Pending","TRK47637374",2,"No Coupon","Referral",532.89
+"ORD200632","2023-05-02","C67260","Laptop",5,678.16,"463 Main St","Gift Card","Delivered","TRK38229104",7,"WINTER15","Facebook",3390.80
+"ORD200633","2024-04-10","C79533","Laptop",5,601.72,"921 Main St","Gift Card","Cancelled","TRK54711422",5,"WINTER15","Instagram",3008.60
+"ORD200636","2023-10-05","C60384","Laptop",4,371.07,"336 Main St","Cash","Cancelled","TRK92080037",7,"WINTER15","Facebook",1484.28
+"ORD200643","2024-08-26","C77122","Laptop",1,438.37,"647 Main St","Cash","Cancelled","TRK75814880",4,"SAVE10","Referral",438.37
+"ORD200645","2023-01-02","C82990","Laptop",2,150.05,"727 Main St","Credit Card","Cancelled","TRK68574801",4,"SAVE10","Facebook",300.10
+"ORD200662","2023-01-28","C98332","Laptop",3,438.89,"985 Main St","Cash","Returned","TRK85744797",3,"No Coupon","Facebook",1316.67
+"ORD200664","2024-12-19","C14847","Laptop",4,194.75,"188 Main St","Cash","Shipped","TRK46492755",5,"No Coupon","Facebook",779.00
+"ORD200667","2023-05-03","C10477","Laptop",1,466.42,"172 Main St","Gift Card","Pending","TRK41505339",5,"SAVE10","Email",466.42
+"ORD200674","2024-01-09","C56928","Laptop",4,358.75,"860 Main St","Gift Card","Delivered","TRK57792939",9,"SAVE10","Facebook",1435.00
+"ORD200676","2025-06-23","C90431","Laptop",2,422.34,"985 Main St","Credit Card","Cancelled","TRK44151723",4,"FREESHIP","Instagram",844.68
+"ORD200691","2024-11-24","C36137","Laptop",3,239.08,"396 Main St","Cash","Shipped","TRK57376416",8,"No Coupon","Google",717.24
+"ORD200698","2023-01-04","C44366","Laptop",2,388.22,"169 Main St","Cash","Delivered","TRK48658394",2,"WINTER15","Instagram",776.44
+"ORD200699","2023-11-13","C36813","Laptop",3,614.15,"897 Main St","Gift Card","Cancelled","TRK84088900",3,"No Coupon","Facebook",1842.45
+"ORD200700","2024-09-25","C40201","Laptop",2,92.91,"555 Main St","Cash","Returned","TRK30198779",3,"WINTER15","Instagram",185.82
+"ORD200710","2024-07-22","C48790","Laptop",5,21.54,"113 Main St","Gift Card","Returned","TRK19086608",10,"No Coupon","Google",107.70
+"ORD200714","2023-04-21","C84888","Laptop",1,51.73,"278 Main St","Debit Card","Pending","TRK23612847",1,"FREESHIP","Facebook",51.73
+"ORD200718","2023-04-08","C16790","Laptop",4,64.74,"718 Main St","Gift Card","Cancelled","TRK91791367",8,"SAVE10","Google",258.96
+"ORD200719","2024-01-21","C46920","Laptop",2,681.06,"703 Main St","Debit Card","Shipped","TRK86403837",3,"FREESHIP","Facebook",1362.12
+"ORD200726","2024-10-25","C18105","Laptop",4,583.02,"338 Main St","Online","Delivered","TRK94006117",4,"FREESHIP","Facebook",2332.08
+"ORD200732","2025-03-07","C80987","Laptop",1,132.05,"787 Main St","Online","Delivered","TRK42187776",2,"No Coupon","Google",132.05
+"ORD200742","2024-11-30","C41974","Laptop",3,699.93,"726 Main St","Cash","Returned","TRK48051468",7,"SAVE10","Google",2099.79
+"ORD200749","2025-04-13","C17551","Laptop",1,518.39,"997 Main St","Debit Card","Pending","TRK88797170",4,"FREESHIP","Instagram",518.39
+"ORD200763","2023-04-06","C79142","Laptop",1,569.96,"533 Main St","Online","Delivered","TRK30915955",4,"FREESHIP","Email",569.96
+"ORD200764","2024-03-10","C35983","Laptop",5,627.43,"806 Main St","Credit Card","Cancelled","TRK14016163",10,"FREESHIP","Email",3137.15
+"ORD200765","2023-10-06","C36150","Laptop",2,534.91,"281 Main St","Debit Card","Returned","TRK96249043",5,"SAVE10","Google",1069.82
+"ORD200778","2023-04-28","C85059","Laptop",4,246.85,"316 Main St","Credit Card","Shipped","TRK56503740",8,"WINTER15","Google",987.40
+"ORD200780","2024-03-31","C41284","Laptop",4,184.48,"661 Main St","Online","Cancelled","TRK73613128",4,"WINTER15","Google",737.92
+"ORD200784","2025-05-16","C21191","Laptop",1,325.81,"232 Main St","Credit Card","Pending","TRK85771230",1,"WINTER15","Referral",325.81
+"ORD200790","2024-09-14","C38928","Laptop",4,417.89,"302 Main St","Gift Card","Pending","TRK96636009",4,"No Coupon","Google",1671.56
+"ORD200795","2024-11-20","C95667","Laptop",4,115.77,"586 Main St","Online","Pending","TRK41266666",7,"SAVE10","Instagram",463.08
+"ORD200797","2023-02-27","C36825","Laptop",2,438.76,"426 Main St","Debit Card","Returned","TRK72557318",2,"No Coupon","Facebook",877.52
+"ORD200799","2023-04-16","C26364","Laptop",4,328.56,"803 Main St","Debit Card","Returned","TRK78924436",4,"FREESHIP","Email",1314.24
+"ORD200805","2024-10-15","C59278","Laptop",5,472.01,"178 Main St","Gift Card","Cancelled","TRK14590037",10,"SAVE10","Email",2360.05
+"ORD200811","2023-11-05","C24769","Laptop",2,28.55,"864 Main St","Gift Card","Shipped","TRK44538305",7,"SAVE10","Email",57.10
+"ORD200813","2025-03-15","C12813","Laptop",5,292.54,"263 Main St","Debit Card","Cancelled","TRK36131660",8,"FREESHIP","Email",1462.70
+"ORD200821","2024-12-14","C40771","Laptop",4,174.49,"259 Main St","Credit Card","Delivered","TRK56310345",5,"SAVE10","Facebook",697.96
+"ORD200823","2024-10-07","C27070","Laptop",4,653.13,"973 Main St","Credit Card","Shipped","TRK83842481",8,"WINTER15","Instagram",2612.52
+"ORD200842","2025-05-07","C78305","Laptop",3,364.14,"396 Main St","Online","Pending","TRK88312618",7,"WINTER15","Referral",1092.42
+"ORD200851","2023-12-12","C80183","Laptop",1,365.57,"146 Main St","Online","Cancelled","TRK20814598",5,"SAVE10","Email",365.57
+"ORD200854","2025-06-13","C56938","Laptop",3,372.60,"356 Main St","Credit Card","Delivered","TRK67735987",7,"WINTER15","Referral",1117.80
+"ORD200875","2023-08-03","C25918","Laptop",5,133.39,"203 Main St","Credit Card","Delivered","TRK66473392",6,"FREESHIP","Referral",666.95
+"ORD200880","2025-03-12","C85074","Laptop",4,233.70,"506 Main St","Online","Shipped","TRK63133878",8,"SAVE10","Facebook",934.80
+"ORD200885","2024-04-07","C61090","Laptop",4,515.59,"387 Main St","Credit Card","Shipped","TRK36388962",7,"FREESHIP","Google",2062.36
+"ORD200888","2024-07-23","C14427","Laptop",2,266.95,"833 Main St","Credit Card","Pending","TRK58024529",3,"No Coupon","Instagram",533.90
+"ORD200890","2023-08-11","C51921","Laptop",3,439.53,"943 Main St","Debit Card","Pending","TRK85741716",5,"No Coupon","Google",1318.59
+"ORD200897","2024-09-03","C87995","Laptop",4,481.48,"358 Main St","Gift Card","Delivered","TRK38730545",5,"SAVE10","Instagram",1925.92
+"ORD200900","2025-02-07","C52342","Laptop",5,73.83,"991 Main St","Debit Card","Pending","TRK67342586",9,"No Coupon","Instagram",369.15
+"ORD200905","2023-11-23","C67818","Laptop",1,442.39,"101 Main St","Gift Card","Pending","TRK81978113",6,"FREESHIP","Facebook",442.39
+"ORD200915","2024-02-16","C20643","Laptop",4,502.99,"939 Main St","Debit Card","Shipped","TRK30736692",4,"WINTER15","Referral",2011.96
+"ORD200917","2025-01-20","C65524","Laptop",5,383.82,"836 Main St","Credit Card","Returned","TRK19315310",7,"FREESHIP","Google",1919.10
+"ORD200918","2025-06-24","C74359","Laptop",5,368.25,"706 Main St","Online","Delivered","TRK18250450",5,"No Coupon","Instagram",1841.25
+"ORD200927","2023-02-14","C35566","Laptop",4,64.69,"638 Main St","Debit Card","Shipped","TRK10003020",7,"WINTER15","Google",258.76
+"ORD200928","2024-05-09","C77166","Laptop",3,247.11,"821 Main St","Debit Card","Returned","TRK18896595",3,"WINTER15","Referral",741.33
+"ORD200932","2023-03-26","C26118","Laptop",2,72.39,"168 Main St","Online","Delivered","TRK15334251",7,"WINTER15","Instagram",144.78
+"ORD200934","2025-06-01","C40304","Laptop",4,119.84,"692 Main St","Gift Card","Shipped","TRK85790948",8,"FREESHIP","Referral",479.36
+"ORD200939","2025-04-16","C48510","Laptop",2,521.40,"212 Main St","Cash","Delivered","TRK53152886",7,"SAVE10","Instagram",1042.80
+"ORD200944","2024-12-16","C32687","Laptop",2,426.22,"448 Main St","Online","Delivered","TRK98284560",7,"WINTER15","Google",852.44
+"ORD200950","2024-05-31","C19722","Laptop",1,596.24,"891 Main St","Credit Card","Returned","TRK78094361",4,"FREESHIP","Instagram",596.24
+"ORD200960","2023-12-11","C87687","Laptop",3,379.07,"312 Main St","Gift Card","Pending","TRK60383805",3,"WINTER15","Google",1137.21
+"ORD200965","2025-06-18","C70412","Laptop",4,578.28,"791 Main St","Gift Card","Cancelled","TRK22192783",5,"FREESHIP","Email",2313.12
+"ORD200972","2024-06-09","C66438","Laptop",1,90.27,"816 Main St","Cash","Delivered","TRK32035271",5,"SAVE10","Facebook",90.27
+"ORD200986","2024-09-07","C69213","Laptop",4,644.96,"533 Main St","Credit Card","Pending","TRK67837331",7,"FREESHIP","Email",2579.84
+"ORD200989","2023-03-23","C49995","Laptop",4,246.11,"559 Main St","Credit Card","Pending","TRK33212013",4,"SAVE10","Instagram",984.44
+"ORD200997","2023-11-27","C26210","Laptop",3,444.75,"805 Main St","Cash","Delivered","TRK40616861",6,"SAVE10","Facebook",1334.25
+"ORD201013","2025-04-26","C91123","Laptop",4,300.56,"842 Main St","Cash","Cancelled","TRK49568409",9,"FREESHIP","Facebook",1202.24
+"ORD201018","2023-07-08","C77499","Laptop",3,182.48,"209 Main St","Cash","Delivered","TRK20703086",3,"No Coupon","Instagram",547.44
+"ORD201023","2024-09-23","C65251","Laptop",5,233.67,"291 Main St","Cash","Shipped","TRK32059025",10,"No Coupon","Referral",1168.35
+"ORD201027","2024-05-21","C93467","Laptop",4,554.83,"983 Main St","Cash","Returned","TRK77377373",6,"No Coupon","Google",2219.32
+"ORD201035","2023-11-12","C70315","Laptop",4,506.11,"911 Main St","Cash","Cancelled","TRK97732085",5,"No Coupon","Referral",2024.44
+"ORD201045","2024-09-20","C11893","Laptop",5,316.40,"671 Main St","Gift Card","Returned","TRK72012758",7,"No Coupon","Email",1582.00
+"ORD201050","2023-08-20","C70659","Laptop",5,69.70,"722 Main St","Online","Returned","TRK49663597",9,"No Coupon","Instagram",348.50
+"ORD201057","2024-09-24","C46210","Laptop",3,428.88,"535 Main St","Debit Card","Shipped","TRK81611937",3,"WINTER15","Facebook",1286.64
+"ORD201061","2025-01-29","C25445","Laptop",5,131.70,"830 Main St","Cash","Shipped","TRK12402431",8,"FREESHIP","Google",658.50
+"ORD201064","2025-02-12","C32121","Laptop",4,198.81,"654 Main St","Cash","Returned","TRK96074264",9,"FREESHIP","Referral",795.24
+"ORD201068","2024-08-03","C29914","Laptop",1,133.39,"469 Main St","Debit Card","Shipped","TRK22073506",2,"SAVE10","Referral",133.39
+"ORD201076","2023-05-08","C99116","Laptop",4,686.61,"176 Main St","Cash","Shipped","TRK52711973",6,"No Coupon","Referral",2746.44
+"ORD201080","2023-01-20","C70613","Laptop",5,464.74,"438 Main St","Gift Card","Delivered","TRK33140293",7,"No Coupon","Referral",2323.70
+"ORD201087","2025-03-23","C84134","Laptop",4,693.07,"530 Main St","Online","Shipped","TRK48659380",8,"SAVE10","Instagram",2772.28
+"ORD201091","2024-10-08","C16400","Laptop",3,209.48,"123 Main St","Debit Card","Pending","TRK57771859",4,"No Coupon","Email",628.44
+"ORD201092","2023-08-21","C38642","Laptop",5,209.20,"930 Main St","Debit Card","Delivered","TRK47744396",6,"WINTER15","Email",1046.00
+"ORD201099","2024-09-19","C21953","Laptop",2,125.23,"272 Main St","Cash","Cancelled","TRK60774796",3,"FREESHIP","Email",250.46
+"ORD201100","2023-08-17","C15146","Laptop",5,38.11,"428 Main St","Debit Card","Cancelled","TRK79790530",6,"WINTER15","Instagram",190.55
+"ORD201103","2023-04-24","C90292","Laptop",4,276.32,"129 Main St","Online","Delivered","TRK26270357",5,"No Coupon","Google",1105.28
+"ORD201108","2023-03-20","C35136","Laptop",1,634.94,"462 Main St","Online","Cancelled","TRK49753703",5,"WINTER15","Instagram",634.94
+"ORD201115","2025-06-20","C70426","Laptop",2,336.32,"562 Main St","Online","Returned","TRK89687816",3,"No Coupon","Google",672.64
+"ORD201119","2024-11-24","C99024","Laptop",1,684.65,"250 Main St","Credit Card","Delivered","TRK24675988",1,"FREESHIP","Email",684.65
+"ORD201130","2025-02-16","C24347","Laptop",2,323.45,"533 Main St","Credit Card","Returned","TRK27233265",5,"FREESHIP","Instagram",646.90
+"ORD201156","2023-07-19","C20512","Laptop",4,690.78,"980 Main St","Credit Card","Shipped","TRK98234737",9,"No Coupon","Referral",2763.12
+"ORD201163","2024-06-11","C30643","Laptop",3,306.29,"966 Main St","Credit Card","Returned","TRK19477485",7,"WINTER15","Instagram",918.87
+"ORD201168","2023-04-08","C89559","Laptop",2,331.42,"297 Main St","Credit Card","Delivered","TRK82838108",6,"WINTER15","Google",662.84
+"ORD201179","2023-01-08","C84630","Laptop",5,518.55,"907 Main St","Credit Card","Cancelled","TRK48054997",6,"WINTER15","Instagram",2592.75
+"ORD201184","2023-09-27","C10222","Laptop",1,204.08,"979 Main St","Gift Card","Returned","TRK86297895",4,"No Coupon","Google",204.08
