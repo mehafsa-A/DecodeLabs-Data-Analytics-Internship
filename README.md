@@ -13,7 +13,7 @@ to meaningful business insights.
 |---|---|---|---|
 | Project 1 | Data Cleaning and Preparation | ✅ Complete | Data Quality |
 | Project 2 | Exploratory Data Analysis | ✅ Complete | Statistics and Visualization |
-| Project 3 | Coming Soon | ⬜ Pending | TBA |
+| Project 3 | SQL Data Analysis | ✅ Complete | SQL Querying |
 | Project 4 | Coming Soon | ⬜ Pending | TBA |
 
 ## Key Highlights
@@ -25,6 +25,7 @@ to meaningful business insights.
 
 ## Tools Used
 - Microsoft Excel
+- PostgreSQL,pgAdmin 4
 
 ## About Me
 Data Analytics Intern at DecodeLabs — Batch 2026
